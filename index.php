@@ -9,7 +9,7 @@
   <div class = "container">
     <div class="jumbotron">
       <h1 class="display-4">Customer Catalog</h1>
-      <p class="lead">Customer Catalog Sample Application</p>
+      <p class="lead">Customer Catalog Sample Applications</p>
       <hr class="my-4">
       <p>PHP sample application connected to a MySQL database to list a customer catalog</p>
     </div>
